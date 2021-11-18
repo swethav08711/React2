@@ -1,0 +1,22 @@
+.main_container {
+  width: 30%;
+  margin: auto;
+  border: 1px solid black;
+  height: 300px;
+  padding: 40px;
+  margin-bottom: 30px;
+}
+.first_cont {
+  display: flex;
+}
+.first_logo_img {
+  width: 50px;
+  margin-left: auto;
+}
+.second_cont {
+  display: flex;
+}
+.second_logo_img {
+  width: 40px;
+  margin-left: auto;
+}
